@@ -1,13 +1,13 @@
 <?php
 
-namespace Asantibanez\LivewireCharts\Charts;
+namespace Yurstore\LivewireCharts\Charts;
 
-use Asantibanez\LivewireCharts\Models\TreeMapChartModel;
+use Yurstore\LivewireCharts\Models\TreeMapChartModel;
 use Livewire\Component;
 
 /**
  * Class LivewireTreeMapChart
- * @package Asantibanez\LivewireCharts\Charts
+ * @package Yurstore\LivewireCharts\Charts
  */
 class LivewireTreeMapChart extends Component
 {

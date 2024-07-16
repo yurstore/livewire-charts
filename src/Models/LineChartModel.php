@@ -1,13 +1,13 @@
 <?php
 
 
-namespace Asantibanez\LivewireCharts\Models;
+namespace Yurstore\LivewireCharts\Models;
 
 use Illuminate\Support\Collection;
 
 /**
  * Class LineChartModel
- * @package Asantibanez\LivewireCharts\Models
+ * @package Yurstore\LivewireCharts\Models
  * @property boolean $isMultiLine
  */
 class LineChartModel extends BaseChartModel

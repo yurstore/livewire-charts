@@ -1,14 +1,14 @@
 <?php
 
-namespace Asantibanez\LivewireCharts;
+namespace Yurstore\LivewireCharts;
 
-use Asantibanez\LivewireCharts\Charts\LivewireAreaChart;
-use Asantibanez\LivewireCharts\Charts\LivewireColumnChart;
-use Asantibanez\LivewireCharts\Charts\LivewireLineChart;
-use Asantibanez\LivewireCharts\Charts\LivewirePieChart;
-use Asantibanez\LivewireCharts\Charts\LivewireRadarChart;
-use Asantibanez\LivewireCharts\Charts\LivewireTreeMapChart;
-use Asantibanez\LivewireCharts\Console\InstallCommand;
+use Yurstore\LivewireCharts\Charts\LivewireAreaChart;
+use Yurstore\LivewireCharts\Charts\LivewireColumnChart;
+use Yurstore\LivewireCharts\Charts\LivewireLineChart;
+use Yurstore\LivewireCharts\Charts\LivewirePieChart;
+use Yurstore\LivewireCharts\Charts\LivewireRadarChart;
+use Yurstore\LivewireCharts\Charts\LivewireTreeMapChart;
+use Yurstore\LivewireCharts\Console\InstallCommand;
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;
 use Livewire\Livewire;

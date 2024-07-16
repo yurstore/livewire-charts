@@ -1,15 +1,15 @@
 <?php
 
 
-namespace Asantibanez\LivewireCharts;
+namespace Yurstore\LivewireCharts;
 
 
-use Asantibanez\LivewireCharts\Models\AreaChartModel;
-use Asantibanez\LivewireCharts\Models\ColumnChartModel;
-use Asantibanez\LivewireCharts\Models\LineChartModel;
-use Asantibanez\LivewireCharts\Models\PieChartModel;
-use Asantibanez\LivewireCharts\Models\RadarChartModel;
-use Asantibanez\LivewireCharts\Models\TreeMapChartModel;
+use Yurstore\LivewireCharts\Models\AreaChartModel;
+use Yurstore\LivewireCharts\Models\ColumnChartModel;
+use Yurstore\LivewireCharts\Models\LineChartModel;
+use Yurstore\LivewireCharts\Models\PieChartModel;
+use Yurstore\LivewireCharts\Models\RadarChartModel;
+use Yurstore\LivewireCharts\Models\TreeMapChartModel;
 
 class LivewireCharts
 {

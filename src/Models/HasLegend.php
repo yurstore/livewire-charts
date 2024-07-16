@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Asantibanez\LivewireCharts\Models;
+namespace Yurstore\LivewireCharts\Models;
 
 
 trait HasLegend

@@ -1,22 +1,22 @@
-[![GitHub release](https://img.shields.io/github/release/asantibanez/livewire-charts.svg)](https://github.com/asantibanez/livewire-charts/releases/)
+[![GitHub release](https://img.shields.io/github/release/Yurstore/livewire-charts.svg)](https://github.com/Yurstore/livewire-charts/releases/)
 
-![Livewire Charts](https://banners.beyondco.de/Livewire%20Charts.png?theme=light&packageName=asantibanez%2Flivewire-charts&pattern=graphPaper&style=style_1&description=Neat+Livewire+Charts+for+your+Laravel+projects&md=1&fontSize=100px&images=chart-square-bar)
+![Livewire Charts](https://banners.beyondco.de/Livewire%20Charts.png?theme=light&packageName=Yurstore%2Flivewire-charts&pattern=graphPaper&style=style_1&description=Neat+Livewire+Charts+for+your+Laravel+projects&md=1&fontSize=100px&images=chart-square-bar)
 
 ## Preview
 
-![preview](https://github.com/asantibanez/livewire-charts/raw/master/preview.gif)
+![preview](https://github.com/Yurstore/livewire-charts/raw/master/preview.gif)
 ![preview](./preview_radarchart.gif)
 
 ## Demo
 
-https://github.com/asantibanez/livewire-charts-demo
+https://github.com/Yurstore/livewire-charts-demo
 
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require asantibanez/livewire-charts
+composer require Yurstore/livewire-charts
 ```
 
 Next, you must export the package public scripts. To do this run 
@@ -88,7 +88,7 @@ Next, include the `@livewireChartsScripts` directive next to your other app scri
 
 And that's it! You have a beautiful rendered chart in seconds. 👌
 
-![column chart example](https://github.com/asantibanez/livewire-charts/raw/master/column-chart-example.png)
+![column chart example](https://github.com/Yurstore/livewire-charts/raw/master/column-chart-example.png)
 
 >Note: You can use these charts inside other Livewire components too. Just render them in your Blade template and you
 are good to go. 👍 
@@ -161,7 +161,7 @@ The parent component renders the charts as follows
 
  When the parent component changes their respective models, charts will automatically re-render itself.
  
- ![reactive charts example](https://github.com/asantibanez/livewire-charts/raw/master/reactive-charts-example.gif)
+ ![reactive charts example](https://github.com/Yurstore/livewire-charts/raw/master/reactive-charts-example.gif)
  
 ## Charts API
 
@@ -315,7 +315,7 @@ If you discover any security related issues, please email santibanez.andres@gmai
 
 ## Credits
 
-- [Andrés Santibáñez](https://github.com/asantibanez)
+- [Andrés Santibáñez](https://github.com/Yurstore)
 - [All Contributors](../../contributors)
 
 ## License
